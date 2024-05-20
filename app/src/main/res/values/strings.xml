@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Tugas_FingerPrint_Sensor</string>
+    <string name="name">Create By Wira Sukma Saputra</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="heroes_name">Nama Dosen</string>
+    <string name="description">Deskripsi</string>
+    <string name="mengajar">Nama Mengajar</string>
+    <string name="email">Email</string>
+    <string name="phone_number">No Handphone</string>
+    <string name="age">Umur</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="save">Simpan</string>
+    <string name="suka_coding">Apakah hari ini akan mengajar</string>
+    <string name="change">Ubah</string>
+    <string name="dummy_name">Wira Sukma Saputra</string>
+    <string name="dummy_email">wiralodrasaputra07@gmail.com</string>
+    <string name="dummynumber">123456</string>
+    <string name="dummyage">30</string>
+    <string name="dummyislove">dummy</string>
+
+    <string-array name="data_name">
+        <item>Tito Sugiharto, M.Eng.</item>
+        <item>Rio Andriyat K., M.Kom.</item>
+        <item>Erik Kurniadi, M.Kom.</item>
+        <item>Yati Nurhayati, M.Kom</item>
+        <item>Heru Budianto, M.Kom.</item>
+        <item>Jerry D. Rahajaan, M.Sn.</item>
+        <item>Panji Novantara, M.T.</item>
+        <item>Sherly Gina S., M.Kom.</item>
+        <item>Endra Suseno, M.Kom.</item>
+        <item>Ragel Tri Sudarmo, M.Kom</item>
+    </string-array>
+
+    <string-array name="data_description">
+    <item>
+Dekan: Dr. Ing. Tito Sugiharto, M.Eng. memiliki keahlian di bidang Teknik Komputer dan Sistem Informasi. Beliau berpengalaman dalam penelitian dan pengembangan sistem informasi, serta aktif dalam berbagai organisasi profesional di bidang teknologi informasi.    </item>
+        <item>
+Wakil Dekan I: Rio Andriyat K., M.Kom. memiliki keahlian di bidang Teknologi Informasi dan Komunikasi (TIK). Beliau berpengalaman dalam pengembangan dan implementasi sistem TIK, serta aktif dalam berbagai kegiatan edukasi dan pelatihan terkait TIK.    </item>
+        <item>
+Wakil Dekan II: Erik Kurniadi, M.Kom. memiliki keahlian di bidang Sistem Informasi. Beliau berpengalaman dalam analisis dan desain sistem informasi, serta aktif dalam berbagai kegiatan penelitian dan publikasi terkait sistem informasi.    </item>
+        <item>
+Teknik Informatika: Yati Nurhayati, M.Kom. memiliki keahlian di bidang Teknik Informatika. Beliau berpengalaman dalam pengembangan aplikasi dan perangkat lunak, serta aktif dalam berbagai kegiatan edukasi dan pelatihan terkait Teknik Informatika.    </item>
+        <item>
+Sistem Informasi: Heru Budianto, M.Kom. memiliki keahlian di bidang Sistem Informasi. Beliau berpengalaman dalam analisis dan desain sistem informasi, serta aktif dalam berbagai kegiatan penelitian dan publikasi terkait sistem informasi.    </item>
+        <item>
+Desain Komunikasi Visual: Jerry D. Rahajaan, M.Sn. memiliki keahlian di bidang Desain Komunikasi Visual. Beliau berpengalaman dalam desain grafis, multimedia, dan web design, serta aktif dalam berbagai pameran dan kompetisi desain.    </item>
+        <item>
+Manajemen Informatika - Teknik Sipil: Panji Novantara, M.T. memiliki keahlian di bidang Manajemen Informatika dan Teknik Sipil. Beliau berpengalaman dalam pengelolaan data dan informasi, serta desain dan konstruksi bangunan.    </item>
+        <item>
+Sherly Gina S., M.Kom. adalah Sekretaris Program Studi Teknik Informatika. Beliau bertanggung jawab dalam membantu tugas-tugas akademik dan administrasi di Program Studi Teknik Informatika. Beliau memiliki keahlian di bidang Teknik Informatika, khususnya dalam pemrograman dan pengembangan perangkat lunak.    </item>
+        <item>
+Endra Suseno, M.Kom. adalah Kepala Laboratorium RPL Multimedia. Beliau bertanggung jawab dalam pengelolaan dan pengembangan laboratorium RPL Multimedia. Beliau memiliki keahlian di bidang RPL Multimedia, khususnya dalam pemrograman, animasi, dan video editing.    </item>
+        <item>
+Ragel Tri Sudarmo, M.Kom: Kepala Laboratorium Aplikasi Pemrograman. Beliau bertanggung jawab dalam pengelolaan dan pengembangan laboratorium Aplikasi Pemrograman. Beliau memiliki keahlian di bidang Aplikasi Pemrograman, khususnya dalam pemrograman web dan mobile.    </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+       <item>@drawable/pak_tito</item>
+       <item>@drawable/dekan1</item>
+       <item>@drawable/dekan2</item>
+       <item>@drawable/kaprodi_ti</item>
+       <item>@drawable/pak_heru</item>
+       <item>@drawable/pak_jerry</item>
+       <item>@drawable/kaprodi_ts_mi</item>
+       <item>@drawable/dosen_serly</item>
+       <item>@drawable/pak_endra</item>
+       <item>@drawable/dosen_ragel</item>
+<!--       <item>@drawable/dosen_ragel</item>-->
+    </integer-array>
+
+</resources>
