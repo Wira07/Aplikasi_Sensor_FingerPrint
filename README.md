@@ -1,7 +1,5 @@
 # 📱 Tugas Fingerprint Sensor
 
-![Logo](app/src/main/res/drawable/ic_launcher.png)
-
 Aplikasi ini dirancang untuk Fakultas Ilmu Komputer, Universitas Kuningan. Aplikasi ini menyediakan fitur autentikasi sidik jari, peta kampus, daftar pejabat struktural, jadwal praktikum, dan informasi rapat kampus.
 
 ## ✨ Fitur Utama
@@ -17,9 +15,6 @@ Menampilkan daftar pejabat struktural di Fakultas Ilmu Komputer dalam bentuk Rec
 
 ### 📅 4. Jadwal Praktikum
 Pengguna dapat melihat jadwal praktikum yang tersedia.
-
-### 🏫 5. Informasi Rapat Kampus
-Menyediakan informasi terkait rapat yang akan diadakan di kampus.
 
 ## 🗂️ Struktur Proyek
 
@@ -92,9 +87,6 @@ Tugas_Fingerprint_Sensor/
 
 4. **Lihat Jadwal Praktikum:**
    Klik tombol "JADWAL PRAKTIKUM" untuk melihat jadwal praktikum.
-
-5. **Lihat Informasi Rapat Kampus:**
-   Klik tombol "RAPAT KAMPUS" untuk melihat informasi terkait rapat.
 
 ## 🤝 Kontribusi
 
